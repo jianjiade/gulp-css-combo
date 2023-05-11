@@ -2,7 +2,7 @@
 
 var gutil = require('gulp-util');
 var through = require('through2');
-var compiler = require('css-combo');
+var compiler = require('css-combo-plus');
 
 module.exports = function (options) {
 	//if (!options.foo) {

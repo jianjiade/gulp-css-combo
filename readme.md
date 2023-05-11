@@ -2,7 +2,8 @@
 
 > Lorem ipsum
 
-
+## fork from [gulp-css-combo](https://github.com/daxingplay/gulp-css-combo)
+support webp image
 ## Install
 
 ```bash

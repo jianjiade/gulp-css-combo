@@ -1,14 +1,21 @@
 {
-  "name": "gulp-css-combo",
+  "name": "gulp-css-combo-fork",
   "version": "0.0.1",
   "description": "",
   "license": "MIT",
   "repository": "daxingplay/gulp-css-combo",
-  "author": {
-    "name": "daxingplay",
-    "email": "daxingplay@gmail.com",
-    "url": "https://github.com/daxingplay"
-  },
+  "author": [
+    {
+      "name": "daxingplay",
+      "email": "daxingplay@gmail.com",
+      "url": "https://github.com/daxingplay"
+    },
+    {
+      "name": "jianjiade",
+      "email": "me@jike.im",
+      "url": "https://github.com/jianjiade"
+    }
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
@@ -24,7 +31,7 @@
   "dependencies": {
     "gulp-util": "~2.2.14",
     "through2": "~0.4.1",
-    "css-combo": "~0.5.2"
+    "css-combo-plus": "0.6.0"
   },
   "devDependencies": {
     "event-stream": "^3.2.2",
